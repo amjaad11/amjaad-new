@@ -1,7 +1,7 @@
 <div align="center">
 <img
   src="https://raw.githubusercontent.com/Joaninnn/Joaninnn/main/lcometoNurmuhammetsGithub1-ezgif.com-crop.gif"
-  alt="Welcome animation"
+ 
 />
 
 ---
