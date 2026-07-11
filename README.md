@@ -1,68 +1,59 @@
 <div align="center">
-<img
-  src="https://raw.githubusercontent.com/Joaninnn/Joaninnn/main/lcometoNurmuhammetsGithub1-ezgif.com-crop.gif"
- 
-/>
-
----
-
-<h3>Connect with me</h3>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](ضع-رابطك)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ضع-إيميلك)
-
+# Amjad Al-Idrisi
+### Software Developer in Progress
+> *"I believe great software starts with great logic."*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Advanced+C%2B%2B+Developer+in+Progress;Algorithms+%26+Problem+Solving;Building+Projects+Every+Day;Never+Stop+Learning." />
+<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 </div>
-
 ---
-
+# About Me
+```cppclass Amjad{public:
+    string Role = "Software Developer";
+    string Location = "Saudi Arabia";
+    vector<string> Languages =    {        "C++",        "Python",        "HTML",        "CSS"    };
+    vector<string> Interests =    {        "Algorithms",        "Problem Solving",        "Software Engineering",        "Clean Code"    };
+    string CurrentFocus =        "Advanced C++ Roadmap";};```
+---
+# Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,github,visualstudio,vscode,sqlite"/>
+</p>
+---
+# Current Journey
+```text███████████████████░░░░░  Advanced C++
+██████████████████░░░░░░  Object-Oriented Programming
+█████████████████░░░░░░░  Data Structures
+████████████████░░░░░░░░  Algorithms
+███████████████░░░░░░░░░  Software Engineering```
+---
+# Featured Projects
+### Client Management System
+Console application for managing clients using file handling and object-oriented programming.
+---
+### Calendar System
+Date calculations, leap years, calendars, and scheduling.
+---
+### Rock Paper Scissors
+Classic game implemented with clean C++ architecture.
+---
+### Election System
+Voting system simulation using structured programming.
+---
+# GitHub Stats
 <div align="center">
-
-<h2>About Me</h2>
-
-Hello, I'm **Fatma Al-Idrisi** — an aspiring Software Developer passionate about solving problems and building efficient software.
-
-I enjoy turning ideas into clean, logical code and continuously improving my programming skills through projects and algorithms.
-
-<br/>
-
-**Software Developer**
-**C++ | Problem Solving | Algorithms**
-**Data Structures & Object-Oriented Programming**
-**Always learning and building**
-
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true)
 </div>
-
 ---
-
+# Quote
+> "I don't write code just to make it work.>> I write code to understand why it works."
+---
 <div align="center">
-
-<h2>Technologies</h2>
-
-<h3>Programming Languages</h3>
-
-![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-000000?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
-
-<br/>
-
-<h3>Tools</h3>
-
-![Git](https://img.shields.io/badge/GIT-000000?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/VISUAL_STUDIO-000000?style=flat&logo=visualstudio&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLITE-000000?style=flat&logo=sqlite&logoColor=white)
-
-<br/>
-
-<h3>Currently Learning</h3>
-
-📚 Advanced C++
-🧩 Data Structures & Algorithms
-🏗️ Object-Oriented Programming
-💻 Software Engineering Fundamentals
-
+### Thanks for visiting my profile 
+Learning every day.
+Building every day.
+Growing every day.
 </div>
-
----
