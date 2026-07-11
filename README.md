@@ -1,9 +1,3 @@
-<div align="center">
-raw.githubusercontent.com/Joaninnn/Joaninnn/main/lcometoNurmuhammetsGithub1-ezgif.com-crop.gif"
-  alt="Welcome animation"
-/>
-
----
 
 <h3>Connect with me</h3>
 
@@ -18,7 +12,7 @@ raw.githubusercontent.com/Joaninnn/Joaninnn/main/lcometoNurmuhammetsGithub1-ezgi
 
 <h2>About Me</h2>
 
-Hello, I'm **Amjad Al-Idrisi** — an aspiring Software Developer passionate about solving problems and building efficient software.
+Hello, I'm **Fatma Al-Idrisi** — an aspiring Software Developer passionate about solving problems and building efficient software.
 
 I enjoy turning ideas into clean, logical code and continuously improving my programming skills through projects and algorithms.
 
