@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 
-Hello, I'm **Amjad Al-Idrisi** — an aspiring Software Developer passionate about solving problems and building efficient software.
+Hello, I'm **Fatma Al-Idrisi** — an aspiring Software Developer passionate about solving problems and building efficient software.
 
 I enjoy turning ideas into clean, logical code and continuously improving my programming skills through projects, algorithms, and data-driven applications.
 
