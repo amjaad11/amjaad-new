@@ -4,7 +4,7 @@
 
 Hello, I'm **Fatma Al-Idrisi** — an aspiring Software Developer passionate about solving problems and building efficient software.
 
-I enjoy turning ideas into clean, logical code and continuously improving my programming skills through projects, algorithms, and data-driven applications.
+I enjoy turning ideas into clean, logical code and continuously improving my programming skills through projects, algorithms.
 
 <br/>
 
