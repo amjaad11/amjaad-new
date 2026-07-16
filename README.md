@@ -9,8 +9,7 @@ I enjoy turning ideas into clean, logical code and continuously improving my pro
 <br/>
 
 **Software Developer**  
-**C++ | Python | Problem Solving | Algorithms**  
-**Data Structures & Object-Oriented Programming**  
+**C++ | Python | Problem Solving | Algorithms**    
 **Always learning and building**
 
 </div>
@@ -41,8 +40,7 @@ I enjoy turning ideas into clean, logical code and continuously improving my pro
 
 <h3>Currently Learning</h3>
 
-📚 Advanced C++ (Data Structures & Algorithms)  
-🏗️ Object-Oriented Programming (OOP)  
+📚 Advanced C++ (Algorithms)    
 💻 Software Engineering Principles
 
 </div>
