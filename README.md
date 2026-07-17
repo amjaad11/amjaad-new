@@ -26,6 +26,7 @@ I enjoy turning ideas into clean, logical code and continuously improving my pro
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE3-003B57?style=flat&logo=sqlite&logoColor=white)
 
 <br/>
 
@@ -34,7 +35,7 @@ I enjoy turning ideas into clean, logical code and continuously improving my pro
 ![Git](https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/VISUAL_STUDIO-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=flat&logo=sqlite&logoColor=white)
+
 
 <br/>
 
