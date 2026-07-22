@@ -1,0 +1,2 @@
+Hi,Amiaad!
+Welcome to C++ programming.
