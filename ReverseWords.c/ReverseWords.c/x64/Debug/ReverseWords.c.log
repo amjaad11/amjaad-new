@@ -1,0 +1,3 @@
+﻿  ReverseWords.c.cpp
+C:\Users\admin\source\repos\ReverseWords.c\ReverseWords.c\ReverseWords.c.cpp(14,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ReverseWords.c.vcxproj -> C:\Users\admin\source\repos\ReverseWords.c\x64\Debug\ReverseWords.c.exe
