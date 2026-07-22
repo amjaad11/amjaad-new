@@ -1,0 +1,3 @@
+﻿  ReplaceWords(Custom).cpp
+C:\Users\admin\source\repos\ReplaceWords(Custom)\ReplaceWords(Custom)\ReplaceWords(Custom).cpp(18,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ReplaceWords(Custom).vcxproj -> C:\Users\admin\source\repos\ReplaceWords(Custom)\x64\Debug\ReplaceWords(Custom).exe
