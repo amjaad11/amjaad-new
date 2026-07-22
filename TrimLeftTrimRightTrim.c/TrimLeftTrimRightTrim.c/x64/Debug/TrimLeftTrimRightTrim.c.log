@@ -1,0 +1,3 @@
+﻿  TrimLeftTrimRightTrim.c.cpp
+C:\Users\admin\source\repos\TrimLeftTrimRightTrim.c\TrimLeftTrimRightTrim.c\TrimLeftTrimRightTrim.c.cpp(49,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TrimLeftTrimRightTrim.c.vcxproj -> C:\Users\admin\source\repos\TrimLeftTrimRightTrim.c\x64\Debug\TrimLeftTrimRightTrim.c.exe
