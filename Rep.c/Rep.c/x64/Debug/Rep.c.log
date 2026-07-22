@@ -1,0 +1,7 @@
+﻿  Rep.c.cpp
+C:\Users\admin\source\repos\Rep.c\Rep.c\Rep.c.cpp(1,4): error C2014: preprocessor command must start as first nonwhite space
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\sal.h(2361,1): error C2144: syntax error: 'int' should be preceded by ';'
+  (compiling source file 'Rep.c.cpp')
+  
+C:\Users\admin\source\repos\Rep.c\Rep.c\Rep.c.cpp(1,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\admin\source\repos\Rep.c\Rep.c\Rep.c.cpp(19,5): error C2065: 'cout': undeclared identifier
