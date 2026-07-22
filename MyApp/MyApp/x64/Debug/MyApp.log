@@ -1,0 +1,13 @@
+﻿  main.cpp
+  TernaryOperarorShortHandIf.cpp
+C:\Users\admin\source\repos\MyApp\MyApp\main.cpp(6,1): error C2760: syntax error: 'int' was unexpected here; expected ';'
+C:\Users\admin\source\repos\MyApp\MyApp\main.cpp(6,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\admin\source\repos\MyApp\MyApp\TernaryOperarorShortHandIf.cpp(7,9): error C2374: 'result': redefinition; multiple initialization
+      C:\Users\admin\source\repos\MyApp\MyApp\TernaryOperarorShortHandIf.cpp(6,9):
+      see declaration of 'result'
+  
+C:\Users\admin\source\repos\MyApp\MyApp\TernaryOperarorShortHandIf.cpp(7,9): error C2086: 'std::string result': redefinition
+      C:\Users\admin\source\repos\MyApp\MyApp\TernaryOperarorShortHandIf.cpp(6,9):
+      see declaration of 'result'
+  
+  Generating Code...
