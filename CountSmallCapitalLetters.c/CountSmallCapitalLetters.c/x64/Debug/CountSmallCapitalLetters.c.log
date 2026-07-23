@@ -1,0 +1,3 @@
+﻿  CountSmallCapitalLetters.c.cpp
+LINK : warning LNK4076: invalid incremental status file 'x64\Debug\CountSmallCapitalLetters.c.ilk' (which will be deleted); linking nonincrementally
+  CountSmallCapitalLetters.c.vcxproj -> C:\Users\admin\source\repos\CountSmallCapitalLetters.c\x64\Debug\CountSmallCapitalLetters.c.exe
