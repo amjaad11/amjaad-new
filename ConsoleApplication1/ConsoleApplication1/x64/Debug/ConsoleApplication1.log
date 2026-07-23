@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\admin\source\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\admin\source\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ConsoleApplication1.vcxproj -> C:\Users\admin\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
